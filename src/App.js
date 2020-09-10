@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import "typeface-roboto";
 
 function App() {
   return (
