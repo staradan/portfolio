@@ -13,10 +13,10 @@ function App() {
         <a className="inline" href="https://statpracticetwo.web.app">
           <h4>UNL Baseball Practice Stats</h4>
         </a>
-        <a className="inline" href="https://statpracticetwo.web.app">
+        <a className="inline" href="https://davidcitybarber.com">
           <h4>David City Barber Shop</h4>
         </a>
-        <a className="inline" href="https://statpracticetwo.web.app">
+        <a className="inline" href="https://unlfd.netlify.com">
           <h4>UNL Food Delivery</h4>
         </a>
       </div>
